@@ -21,9 +21,7 @@ I'm Suyog, a passionate developer with interests in web development, open-source
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
