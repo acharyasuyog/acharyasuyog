@@ -11,21 +11,9 @@ I'm Suyog, a passionate developer with interests in web development, open-source
 
 - Docker and Kubernetes
 - Advanced JavaScript and TypeScript
-- Machine Learning algorithms
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/acharyasuyog/)
 
-## 💬 Ask me about
-
-- Full-stack web development
-- Open source contributions
-- Career advice in tech
-
-## 📊 GitHub Stats
-
-![Suyog's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
