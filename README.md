@@ -15,5 +15,7 @@ I'm Suyog, a passionate developer with interests in web development, open-source
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/acharyasuyog/)
+- [instagram](https://www.instagram.com/suyognotnice)
+- [facebook](https://www.facebook.com/imsuy0g)
 
 
