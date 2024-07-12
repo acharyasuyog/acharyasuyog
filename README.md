@@ -21,3 +21,7 @@ I'm Suyog, a passionate developer with interests in web development, open-source
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+
+## 📈 My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=acharyasuyog)](https://git.io/streak-stats)
