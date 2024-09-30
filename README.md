@@ -11,7 +11,7 @@ I'm Suyog, a passionate developer with interests in web development, open-source
 
 - [LinkedIn](https://www.linkedin.com/in/acharyasuyog/)
 - [Instagram](https://www.instagram.com/suyognotnice)
-- [Facebook](https://www.facebook.com/imsuy0g)
+- [Facebook](https://www.facebook.com/suyognotnice)
 
 ## 🛠️ Languages and Tools
 
