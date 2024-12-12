@@ -14,7 +14,8 @@ I'm Suyog, a passionate developer with interests in web development, open-source
 - [Facebook](https://www.facebook.com/suyognotnice)
 
   ##
-  Gmail:- suyognotnice@gmail.com,suyogacharya50@gmail.com
+Email:- (suyognotnice@gmail.com)
+        (suyogacharya50@gmail.com)
 
 ## 🛠️ Languages and Tools
 
