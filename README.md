@@ -35,12 +35,17 @@ I'm **Suyog Acharya**, a passionate developer with expertise in backend developm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="40" height="40" /> 
 
-  <!-- Express.js Badge -->
-  <img src="https://img.shields.io/badge/-Express.js-333?style=flat&logo=express&logoColor=white"  height="40" />
+  <!-- Express.js with White Background -->
+  <span style="display:inline-block; width:50px; height:50px; background-color:white; border-radius:5px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="35" height="35" />
+  </span>
 
-  <!-- Next.js Badge -->
-  <img src="https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js&logoColor=white"  height="40" />
+  <!-- Next.js with White Background -->
+  <span style="display:inline-block; width:50px; height:50px; background-color:white; border-radius:5px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="35" height="35" />
+  </span>
 </p>
+
 
 
 
