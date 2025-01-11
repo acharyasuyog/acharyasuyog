@@ -26,29 +26,27 @@ I'm **Suyog Acharya**, a passionate developer with expertise in backend developm
 ## 🔧 Languages and Tools  
 
 ### **Languages**  
-<p align="left" style = "background-color:white;"> 
+<p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" /> 
 
-  <!-- Next.js with Forced Background -->
-  <span style="display:inline-block; width:50px; height:50px; background-color:white; border-radius:5px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40" />
+  <!-- Next.js with Proper Background -->
+  <span style="display:inline-block; width:50px; height:50px; background-color:white; border-radius:5px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="35" height="35" />
   </span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> 
 
-  <!-- Express.js with Forced Background -->
-  <span style="display:inline-block; width:50px; height:50px; background-color:white; border-radius:5px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+  <!-- Express.js with Proper Background -->
+  <span style="display:inline-block; width:50px; height:50px; background-color:white; border-radius:5px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="35" height="35" />
   </span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="40" height="40" /> 
 </p>
-
-
 
 
 ### **Tools**  
