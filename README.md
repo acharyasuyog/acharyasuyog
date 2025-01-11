@@ -36,10 +36,10 @@ I'm **Suyog Acharya**, a passionate developer with expertise in backend developm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="40" height="40" /> 
 
   <!-- Express.js Badge -->
-  <img src="https://img.shields.io/badge/-Express.js-333?style=flat&logo=express&logoColor=white" alt="Express.js" height="40" />
+  <img src="https://img.shields.io/badge/-Express.js-333?style=flat&logo=express&logoColor=white"  height="40" />
 
   <!-- Next.js Badge -->
-  <img src="https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="40" />
+  <img src="https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js&logoColor=white"  height="40" />
 </p>
 
 
