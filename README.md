@@ -58,7 +58,7 @@ I'm **Suyog Acharya**, a passionate developer with expertise in backend developm
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acharyasuyog)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=acharyasuyog)](https://git.io/streak-stats)
 
 ---
 
