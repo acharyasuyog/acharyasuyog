@@ -1,4 +1,4 @@
----
+![Profile Views](https://komarev.com/ghpvc/?username=acharyasuyog&color=yellow)
 # Hi there! 👋  
 
 I'm **Suyog Acharya**, a passionate developer with expertise in backend development and growing skills in full-stack development. My interests span **web development**, **open-source contributions**, and **machine learning**, where I aim to create efficient and scalable solutions.  
