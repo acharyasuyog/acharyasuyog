@@ -73,8 +73,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acharyasuyog&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Suyog's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acharyasuyog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 </div>
 
 ---
