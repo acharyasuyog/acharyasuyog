@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acharyasuyog&color=yellow&style=for-the-badge)
 
-# Hey, I'm Suyog Acharya 👋
+# Hey, I'm Suyog Acharya.
 
 **Backend-focused developer growing into full-stack.** I build efficient, scalable solutions across web development, open-source, and machine learning.
 
@@ -15,17 +15,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 Passionate about **backend development** and expanding into full-stack
-- 🌱 Currently mastering **Docker** for containerization, and advanced **TypeScript**
-- ⚙️ Experienced with **Frappe Framework** for enterprise web applications
-- 🤖 Interested in **machine learning** and building intelligent solutions
-- 🎯 Long-term goal: Become a versatile, impact-driven **full-stack developer**
+- Passionate about **backend development** and expanding into full-stack
+- Currently mastering **Docker** for containerization, and advanced **TypeScript**
+- Experienced with **Frappe Framework** for enterprise web applications
+- Interested in **machine learning** and building intelligent solutions
+- Long-term goal: Become a versatile, impact-driven **full-stack developer**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 <p>
@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
